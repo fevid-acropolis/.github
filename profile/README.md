@@ -1,7 +1,6 @@
 
 
 <h1 align="center">Welcome to Acropolis</h1>
-<a rel="me" href="https://nerdculture.de/@gdsimpson3">Mastodon</a>
 <p align="center">
   <img src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI1ODRkZGFmZTE0YjNkYTBiN2U0YjgxZjhhNzc5NWRlMjQ5YjYyNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/uE822G8JsF4l3ajgPo/giphy.gif">
 </p>
